@@ -2,11 +2,6 @@
   "short_name": "Pressure Washing",
   "name": "Hammett's Pressure Washing",
   "icons": [
-    {
-      "src": "logo-trans.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
   ],
   "start_url": ".",
   "display": "standalone",
